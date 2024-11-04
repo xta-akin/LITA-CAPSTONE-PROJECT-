@@ -46,9 +46,10 @@ In this project, I analyzed the sales performance of a retail store to uncover i
      - Percentage of total sales by region
      - Products with no sales in the last quarter
 
-   See `[SQL_Queries/Sales_Performance_Queries.sql] (https://drive.google.com/file/d/1av7Sx6mV0Ofds3ZmZfIZ320nsextDQYz/view?usp=drive_link), (https://drive.google.com/file/d/1ZRA_X8eTMWCJJ_-9RNt3hKRKKfulvEmR/view?usp=drive_link)` for the full list of queries.
+   See `[SQL_Queries/Sales_Performance_Queries.sql]
+   (https://drive.google.com/file/d/1av7Sx6mV0Ofds3ZmZfIZ320nsextDQYz/view?usp=drive_link) (https://drive.google.com/file/d/1ZRA_X8eTMWCJJ_-9RNt3hKRKKfulvEmR/view?usp=drive_link)  for the full list of queries.
 
-3. **Power BI Dashboard**
+4. **Power BI Dashboard**
    - Built an interactive dashboard featuring:
      - Sales overview with monthly trends
      - Top-performing products
