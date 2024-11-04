@@ -64,9 +64,9 @@ In this project, I analyzed the sales performance of a retail store to uncover i
 ---
 
 ### Files in This Folder
-- `Data/sales_data.csv`: Sales data for analysis.
-- `SQL_Queries/Sales_Performance_Queries.sql`: SQL scripts to extract insights.
-- `Excel_Analysis/Sales_Analysis.xlsx`: Excel analysis with pivot tables and metrics.
+- **(https://docs.google.com/spreadsheets/d/1nBpXfXZp7FbpqnfdgArWI661lFPYcjCM/edit?usp=drive_link&ouid=107432719510832986174&rtpof=true&sd=true)**: Sales data for analysis.
+- **(https://drive.google.com/file/d/1ZRA_X8eTMWCJJ_-9RNt3hKRKKfulvEmR/view?usp=drive_link)**: SQL scripts to extract insights.
+- **[`Excel_Analysis/Sales_Analysis.xlsx`](https://docs.google.com/spreadsheets/d/1YYmm-wjep-hxQsIvWPXvbZvjQ_Q-iPff/edit?usp=drive_link&ouid=107432719510832986174&rtpof=true&sd=true)**: Excel analysis with pivot tables and metrics.
 - `PowerBI/Sales_Performance_Dashboard.pbix`: Power BI dashboard visualizing key findings.
 
 # Project 2: Customer Segmentation for a Subscription Service
@@ -96,7 +96,7 @@ This project involved analyzing customer data for a subscription service to iden
      - Top 3 regions by subscription cancellations
      - Total number of active and canceled subscriptions
 
-   See `SQL_Queries/Customer_Segmentation_Queries.sql` for the full list of queries.
+   See **[SQL_Queries/Customer_Segmentation_Queries.sql](https://drive.google.com/file/d/1av7Sx6mV0Ofds3ZmZfIZ320nsextDQYz/view?usp=drive_link)** for the full list of queries.
 
 3. **Power BI Dashboard**
    - Built an interactive dashboard with visualizations for:
@@ -113,8 +113,8 @@ This project involved analyzing customer data for a subscription service to iden
 ---
 
 ### Files in This Folder
-- `Data/customer_data.csv`: Customer data for analysis.
-- `SQL_Queries/Customer_Segmentation_Queries.sql`: SQL scripts to extract insights.
-- `Excel_Analysis/Customer_Segmentation_Analysis.xlsx`: Excel analysis with pivot tables and calculations.
+-**(https://docs.google.com/spreadsheets/d/1O4IjF1rU5grY1X9E4lZ1L2dKhNisbe3S/edit?usp=drive_link&ouid=107432719510832986174&rtpof=true&sd=true)**: Customer data for analysis.
+- **https://drive.google.com/file/d/1av7Sx6mV0Ofds3ZmZfIZ320nsextDQYz/view?usp=drive_link** : SQL scripts to extract insights.
+- **https://docs.google.com/spreadsheets/d/1HIwSOZtbCXMA8NZB7yuwVEPibAs0dPSK/edit?usp=drive_link&ouid=107432719510832986174&rtpof=true&sd=true** : Excel analysis with pivot tables and calculations.
 - `PowerBI/Customer_Segmentation_Dashboard.pbix`: Power BI dashboard visualizing key insights.
 
