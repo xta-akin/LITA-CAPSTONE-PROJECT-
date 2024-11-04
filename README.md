@@ -66,7 +66,7 @@ In this project, I analyzed the sales performance of a retail store to uncover i
 ### Files in This Folder
 - **(https://docs.google.com/spreadsheets/d/1nBpXfXZp7FbpqnfdgArWI661lFPYcjCM/edit?usp=drive_link&ouid=107432719510832986174&rtpof=true&sd=true)**: Sales data for analysis.
 - **(https://drive.google.com/file/d/1ZRA_X8eTMWCJJ_-9RNt3hKRKKfulvEmR/view?usp=drive_link)**: SQL scripts to extract insights.
-- **[`Excel_Analysis/Sales_Analysis.xlsx`](https://docs.google.com/spreadsheets/d/1YYmm-wjep-hxQsIvWPXvbZvjQ_Q-iPff/edit?usp=drive_link&ouid=107432719510832986174&rtpof=true&sd=true)**: Excel analysis with pivot tables and metrics.
+- **[Excel_Analysis/Sales_Analysis.xlsx](https://docs.google.com/spreadsheets/d/1YYmm-wjep-hxQsIvWPXvbZvjQ_Q-iPff/edit?usp=drive_link&ouid=107432719510832986174&rtpof=true&sd=true)**: Excel analysis with pivot tables and metrics.
 - `PowerBI/Sales_Performance_Dashboard.pbix`: Power BI dashboard visualizing key findings.
 
 # Project 2: Customer Segmentation for a Subscription Service
