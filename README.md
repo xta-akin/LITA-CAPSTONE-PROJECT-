@@ -4,8 +4,8 @@ Welcome to my capstone project repository for the **Ladies in Tech Africa (LITA)
 
 ## Project List
 
-1. **[Sales Performance Analysis for a Retail Store](Project_1_Sales_Performance_Analysis/README.md)**: Analysis of sales performance data to provide insights into top-selling products, regional sales trends, and more.
-2. **[Customer Segmentation for a Subscription Service](Project_2_Customer_Segmentation/README.md)**: Analysis of customer data to segment and understand customer behavior, subscription types, and cancellation trends.
+1. **[Sales Performance Analysis for a Retail Store](https://docs.google.com/spreadsheets/d/1nBpXfXZp7FbpqnfdgArWI661lFPYcjCM/edit?usp=drive_link&ouid=107432719510832986174&rtpof=true&sd=true)**: Analysis of sales performance data to provide insights into top-selling products, regional sales trends, and more.
+2. **[Customer Segmentation for a Subscription Service](https://docs.google.com/spreadsheets/d/1O4IjF1rU5grY1X9E4lZ1L2dKhNisbe3S/edit?usp=drive_link&ouid=107432719510832986174&rtpof=true&sd=true)**: Analysis of customer data to segment and understand customer behavior, subscription types, and cancellation trends.
 
 Each project folder contains:
 - **Data**: The datasets used for analysis.
@@ -46,7 +46,7 @@ In this project, I analyzed the sales performance of a retail store to uncover i
      - Percentage of total sales by region
      - Products with no sales in the last quarter
 
-   See `SQL_Queries/Sales_Performance_Queries.sql` for the full list of queries.
+   See `[SQL_Queries/Sales_Performance_Queries.sql](https://drive.google.com/file/d/1av7Sx6mV0Ofds3ZmZfIZ320nsextDQYz/view?usp=drive_link), [https://drive.google.com/file/d/1ZRA_X8eTMWCJJ_-9RNt3hKRKKfulvEmR/view?usp=drive_link)` for the full list of queries.
 
 3. **Power BI Dashboard**
    - Built an interactive dashboard featuring:
