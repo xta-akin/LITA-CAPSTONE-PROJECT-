@@ -54,7 +54,7 @@ In this project, I analyzed the sales performance of a retail store to uncover i
      - Sales overview with monthly trends
      - Top-performing products
      - Regional performance breakdowns
-   - Dashboard file: **[`PowerBI/Sales_Performance_Dashboard.pbix`](https://drive.google.com/file/d/1thaPkZ8sYnrIjZG8uMkTypDsMLXsxPOj/view?usp=drive_link)**
+   - Dashboard file: **[`PowerBI/Sales_Performance_Dashboard.pbix`](https://drive.google.com/file/d/1thaPkZ8sYnrIjZG8uMkTypDsMLXsxPOj/view?usp=drive_link)(https://drive.google.com/file/d/1k2yF7cHhqYwCBdyExALNg1y93Xk_ZRvQ/view?usp=drive_link)**
 
 ### Key Insights
 - **Top-selling products** were identified across all regions.
@@ -67,7 +67,7 @@ In this project, I analyzed the sales performance of a retail store to uncover i
 - **(https://docs.google.com/spreadsheets/d/1nBpXfXZp7FbpqnfdgArWI661lFPYcjCM/edit?usp=drive_link&ouid=107432719510832986174&rtpof=true&sd=true)**: Sales data for analysis.
 - **(https://drive.google.com/file/d/1ZRA_X8eTMWCJJ_-9RNt3hKRKKfulvEmR/view?usp=drive_link)**: SQL scripts to extract insights.
 - **[Excel_Analysis/Sales_Analysis.xlsx](https://docs.google.com/spreadsheets/d/1YYmm-wjep-hxQsIvWPXvbZvjQ_Q-iPff/edit?usp=drive_link&ouid=107432719510832986174&rtpof=true&sd=true)**: Excel analysis with pivot tables and metrics.
-- **(https://drive.google.com/file/d/1thaPkZ8sYnrIjZG8uMkTypDsMLXsxPOj/view?usp=drive_link)**: Power BI dashboard visualizing key findings.
+- **(https://drive.google.com/file/d/1thaPkZ8sYnrIjZG8uMkTypDsMLXsxPOj/view?usp=drive_link)(https://drive.google.com/file/d/1k2yF7cHhqYwCBdyExALNg1y93Xk_ZRvQ/view?usp=drive_link)**: Power BI dashboard visualizing key findings.
 
 # Project 2: Customer Segmentation for a Subscription Service
 
