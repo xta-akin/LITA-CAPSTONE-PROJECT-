@@ -103,7 +103,7 @@ This project involved analyzing customer data for a subscription service to iden
      - Customer segments
      - Subscription trends, including cancellations
      - Key insights with slicers for interactive analysis
-   - Dashboard file: `PowerBI/Customer_Segmentation_Dashboard.pbix`
+   - Dashboard file: **[`PowerBI/Customer_Segmentation_Dashboard.pbix`] (https://drive.google.com/file/d/1JlXrjYstDETN0Vkn7jQwkSXtonYjUAFH/view?usp=drive_link) (https://drive.google.com/file/d/10SdQ6VFeZ9RfS5OsW5qQFIUt36yKW1AK/view?usp=drive_link)**
 
 ### Key Insights
 - **Subscription type popularity** highlighted key segments for targeted marketing.
@@ -116,5 +116,5 @@ This project involved analyzing customer data for a subscription service to iden
 -**(https://docs.google.com/spreadsheets/d/1O4IjF1rU5grY1X9E4lZ1L2dKhNisbe3S/edit?usp=drive_link&ouid=107432719510832986174&rtpof=true&sd=true)**: Customer data for analysis.
 - **https://drive.google.com/file/d/1av7Sx6mV0Ofds3ZmZfIZ320nsextDQYz/view?usp=drive_link** : SQL scripts to extract insights.
 - **https://docs.google.com/spreadsheets/d/1HIwSOZtbCXMA8NZB7yuwVEPibAs0dPSK/edit?usp=drive_link&ouid=107432719510832986174&rtpof=true&sd=true** : Excel analysis with pivot tables and calculations.
-- `PowerBI/Customer_Segmentation_Dashboard.pbix`: Power BI dashboard visualizing key insights.
+- **(https://drive.google.com/file/d/1JlXrjYstDETN0Vkn7jQwkSXtonYjUAFH/view?usp=drive_link) (https://drive.google.com/file/d/10SdQ6VFeZ9RfS5OsW5qQFIUt36yKW1AK/view?usp=drive_link)**: Power BI dashboard visualizing key insights.
 
