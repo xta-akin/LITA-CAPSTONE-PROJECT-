@@ -47,14 +47,14 @@ In this project, I analyzed the sales performance of a retail store to uncover i
      - Products with no sales in the last quarter
 
    See **[SQL_Queries/Sales_Performance_Queries.sql]
-   (https://drive.google.com/file/d/1ZRA_X8eTMWCJJ_-9RNt3hKRKKfulvEmR/view?usp=drive_link)** for the full list of queries.
+   (https://drive.google.com/file/d/1ZRA_X8eTMWCJJ_-9RNt3hKRKKfulvEmR/view?usp=drive_link) (https://drive.google.com/file/d/162sg4bZaGgksG_r8Vp9dmgLR4PStU79B/view?usp=drive_link)** for the full list of queries.
 
 4. **Power BI Dashboard**
    - Built an interactive dashboard featuring:
      - Sales overview with monthly trends
      - Top-performing products
      - Regional performance breakdowns
-   - Dashboard file: `PowerBI/Sales_Performance_Dashboard.pbix`
+   - Dashboard file: **[`PowerBI/Sales_Performance_Dashboard.pbix`](https://drive.google.com/file/d/1thaPkZ8sYnrIjZG8uMkTypDsMLXsxPOj/view?usp=drive_link)**
 
 ### Key Insights
 - **Top-selling products** were identified across all regions.
@@ -96,7 +96,7 @@ This project involved analyzing customer data for a subscription service to iden
      - Top 3 regions by subscription cancellations
      - Total number of active and canceled subscriptions
 
-   See **[SQL_Queries/Customer_Segmentation_Queries.sql](https://drive.google.com/file/d/1av7Sx6mV0Ofds3ZmZfIZ320nsextDQYz/view?usp=drive_link)** for the full list of queries.
+   See **[SQL_Queries/Customer_Segmentation_Queries.sql](https://drive.google.com/file/d/1av7Sx6mV0Ofds3ZmZfIZ320nsextDQYz/view?usp=drive_link)(https://drive.google.com/file/d/1FdaEZ1oVpzozGExJiTxw-1lf8zRxaTuw/view?usp=drive_link)** for the full list of queries.
 
 3. **Power BI Dashboard**
    - Built an interactive dashboard with visualizations for:
